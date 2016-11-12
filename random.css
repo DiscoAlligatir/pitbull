@@ -1,0 +1,17 @@
+h1 {
+	color:SlateDarkGrey;
+	font-family: chalkboard;
+}
+
+p {
+	color: #eaea4f;
+	font-family: avenir-book;
+}
+
+.pitbull {
+	border-radius:200px;
+}
+
+body {
+	background-color: #1673ff;
+}
